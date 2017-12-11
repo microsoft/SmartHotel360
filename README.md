@@ -23,17 +23,15 @@ There’s never been a better time to be a developer. Our intent with these set 
 
 <table><thead>
 <tr>
-<th>Labs</th>
-<th>Demo Script</th>
-<th>Demo Video</th>
-<th>Source Code</th>
+<th>Repo</th>
+<th>Description</th>
+<th>Demo Videos</th>
 
 </tr>
 </thead><tbody>
 <tr>
-<td>Azure Backend</td>
-<td><a href="/Installation and better Performance">Source Code</a></td>
-<td><a href="https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2017-Launch/100#time=0h15m37s">Demo Video</a></td>
+<td><a href="/SmartHotel360-Azure-backend">Azure Backend</a></td>
+<td><a href="https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2017-Launch/100#time=0h15m37s">find everything you need to run the backend services locally and/or deploy them in a Azure environment.</a></td>
 <td><a href="https://github.com/Microsoft/BikeSharing360_Productivity/tree/master/Lightweight">Source Code</a></td>
 </tr>
 <tr>

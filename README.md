@@ -25,8 +25,8 @@ For this reference app scenario, we built several consumer and line-of-business 
 
 * [SmartHotel360 ](https://github.com/Microsoft/SmartHotel360)
 * [Backend Services](https://github.com/Microsoft/SmartHotel360-Azure-backend)
-* [Websites](https://github.com/Microsoft/SmartHotel360-public-web)
-* [Mobile Apps](https://github.com/Microsoft/SmartHotel360-modern-apps)
+* [Public Website](https://github.com/Microsoft/SmartHotel360-public-web)
+* [Mobile Apps](https://github.com/Microsoft/SmartHotel360-mobile-desktop-apps)
 * [Sentiment Analysis](https://github.com/Microsoft/SmartHotel360-Sentiment-Analysis-App)
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.

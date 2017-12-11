@@ -21,43 +21,13 @@ There’s never been a better time to be a developer. Our intent with these set 
 ## SmartHotel360 Repos
 <br>
 
-<table><thead>
-<tr>
-<th>Repo</th>
-<th>Description</th>
-<th>Demo Videos</th>
+For this reference app scenario, we built several consumer and line-of-business apps and an Azure backend. You can find all SmartHotel360 repos in the following locations:
 
-</tr>
-</thead><tbody>
-<tr>
-<td><a href="/SmartHotel360-Azure-backend">Azure Backend</a></td>
-<td><a href="https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2017-Launch/100#time=0h15m37s">find everything you need to run the backend services locally and/or deploy them in a Azure environment.</a></td>
-<td><a href="https://github.com/Microsoft/BikeSharing360_Productivity/tree/master/Lightweight">Source Code</a></td>
-</tr>
-<tr>
-<td>Public website</td>
-<td><a href="/Visual Studio 2017 Productivity">DSource</a></td>
-<td><a href="https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2017-Launch/100#time=0h20m32s">Demo Video</a></td>
-<td><a href="https://github.com/Microsoft/BikeSharing360_Productivity/tree/master/code">Source Code</a></td>
-
-</tr>
-<tr>
-<td>Sentiment Analysis</td>
-<td><a href="/.NET Core tools in Visual Studio 2017">Demo Script</a></td>
-<td><a href="https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2017-Launch/100#time=0h34m34s">Demo Video</a></td>
-<td><a href="https://github.com/Microsoft/BikeSharing360_Websites/tree/master/VS2017-NetCoreTools-Demo">Source Code</a></td>
-
-</tr>
-<tr>
-<td>Mobile and Desktop Apps</td>
-<td><a href="/Microservices and Docker">Demo Script</a></td>
-<td><a href="https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2017-Launch/100#time=0h42m22s">Demo Video</a></td>
-<td><a href="https://github.com/Microsoft/BikeSharing360_SingleContainer/" >Single-container Source Code</a>
-  <br> <a href="https://github.com/Microsoft/BikeSharing360_MultiContainer" >Multi-container Source Code</a></td>
-</tr>
-<tr>
-
-</tbody></table>
+* [SmartHotel360 ](https://github.com/Microsoft/SmartHotel360)
+* [Backend Services](https://github.com/Microsoft/SmartHotel360-Azure-backend)
+* [Websites](https://github.com/Microsoft/SmartHotel360-public-web)
+* [Mobile Apps](https://github.com/Microsoft/SmartHotel360-modern-apps)
+* [Sentiment Analysis](https://github.com/Microsoft/SmartHotel360-Sentiment-Analysis-App)
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 

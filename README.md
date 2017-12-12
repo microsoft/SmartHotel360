@@ -5,8 +5,6 @@
 <img src="/docs/SmartHotel360_ReferenceApps.png "/>
 </p>
 
-<br>
-
 # SmartHotel360
 We are happy to announce the release of SmartHotel360. This release intends to share a simplified version of SmartHotel360 reference sample apps used at Connect(); 2017 Keynotes. If you missed it, you can watch <a href="https://channel9.msdn.com/Events/Connect/2017/K100">Scott Guthrie’s Keynote: Journey to the Intelligent Cloud in Channel 9</a>.
 
@@ -28,7 +26,7 @@ For this reference app scenario, we built several consumer and line-of-business 
 * [Mobile Apps](https://github.com/Microsoft/SmartHotel360-mobile-desktop-apps)
 * [Sentiment Analysis](https://github.com/Microsoft/SmartHotel360-Sentiment-Analysis-App)
 
-## How to sign up for Microsoft Azure
+# How to sign up for Microsoft Azure
 
 You need an Azure account to work with this demo code. You can:
 
@@ -36,7 +34,7 @@ You need an Azure account to work with this demo code. You can:
 - [Activate Visual Studio subscriber benefits](https://www.visualstudio.com/products/visual-studio-dev-essentials-vs). Your Visual Studio subscription gives you credits every month that you can use for paid Azure services.
 
 
-## Blogs post and videos
+# Blogs post and videos
 
 Here's links to videos and blog posts related to this project:
 

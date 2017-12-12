@@ -39,7 +39,7 @@ You need an Azure account to work with this demo code. You can:
 Here's links to videos and blog posts related to this project:
 
 - Microsoft Visual Studio YouTube Channel: [Connect(); 2017 Scott Guthrie Keynote Demos](https://www.youtube.com/playlist?list=PLReL099Y5nRfBAR43pZrcTTJ3LTa9hdsV)
-- The Visual Studio Blog: [Connect(); 2017: SmartHotel360 Demo Apps and Architecture](https://blogs.msdn.microsoft.com/visualstudio)
+- The Visual Studio Blog: [Connect(); 2017: SmartHotel360 Demo Apps and Architecture](https://blogs.msdn.microsoft.com/visualstudio/2017/12/13/connect-2017-smarthotel360-demo-apps-and-architecture/)
 
 # Contributing
 

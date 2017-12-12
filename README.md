@@ -18,7 +18,7 @@ Their vision is to provide:
 - Unified analytics and package deal recommendations for campaign managers. 
 There’s never been a better time to be a developer. Our intent with these set of reference apps and Azure backend is to show developers how to get started building the apps of the future, today!
 
-## SmartHotel360 Repos
+# SmartHotel360 Repos
 <br>
 
 For this reference app scenario, we built several consumer and line-of-business apps and an Azure backend. You can find all SmartHotel360 repos in the following locations:
@@ -29,7 +29,20 @@ For this reference app scenario, we built several consumer and line-of-business 
 * [Mobile Apps](https://github.com/Microsoft/SmartHotel360-mobile-desktop-apps)
 * [Sentiment Analysis](https://github.com/Microsoft/SmartHotel360-Sentiment-Analysis-App)
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## How to sign up for Microsoft Azure
+
+You need an Azure account to work with this demo code. You can:
+
+- Open an Azure account for free [Azure subscription](https://azure.com). You get credits that can be used to try out paid Azure services. Even after the credits are used up, you can keep the account and use free Azure services and features, such as the Web Apps feature in Azure App Service.
+- [Activate Visual Studio subscriber benefits](https://www.visualstudio.com/products/visual-studio-dev-essentials-vs). Your Visual Studio subscription gives you credits every month that you can use for paid Azure services.
+
+
+## Blogs post and videos
+
+Here's links to videos and blog posts related to this project:
+
+- Microsoft Visual Studio YouTube Channel: [Connect(); 2017 Scott Guthrie Keynote Demos](https://www.youtube.com/playlist?list=PLReL099Y5nRfBAR43pZrcTTJ3LTa9hdsV)
+- The Visual Studio Blog: [Connect(); 2017: SmartHotel360 Demo Apps and Architecture](https://blogs.msdn.microsoft.com/visualstudio)
 
 # Contributing
 

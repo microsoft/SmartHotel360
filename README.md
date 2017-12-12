@@ -26,7 +26,7 @@ For this reference app scenario, we built several consumer and line-of-business 
 * [Backend Services](https://github.com/Microsoft/SmartHotel360-Azure-backend)
 * [Public Website](https://github.com/Microsoft/SmartHotel360-public-web)
 * [Mobile Apps](https://github.com/Microsoft/SmartHotel360-mobile-desktop-apps)
-* [Sentiment Analysis](https://github.com/Microsoft/SmartHotel360-Sentiment-Analysis-App)
+* [Sentiment Analysis](https://github.com/Microsoft/SmartHotel360-Sentiment-Analysis-App) - Coming soon!
 
 # How to sign up for Microsoft Azure
 

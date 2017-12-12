@@ -2,7 +2,7 @@
 # SmartHotel360 - E2E Reference Sample and Azure Backend
 
 <p align="center">
-<img src="VS2017Launch.png"/>
+<img src="/docs/SmartHotel360 - Architecture diagram_final.png "/>
 </p>
 
 <br>

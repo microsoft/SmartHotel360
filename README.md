@@ -16,6 +16,8 @@ Their vision is to provide:
 - Unified analytics and package deal recommendations for campaign managers. 
 There’s never been a better time to be a developer. Our intent with these set of reference apps and Azure backend is to show developers how to get started building the apps of the future, today!
 
+You can find a PowerPoint deck that you can download and use for your presentations in the <a href="https://github.com/Microsoft/SmartHotel360/tree/master/docs">docs</a> folder of this repo.
+
 # SmartHotel360 Repos
 
 For this reference app scenario, we built several consumer and line-of-business apps and an Azure backend. You can find all SmartHotel360 repos in the following locations:

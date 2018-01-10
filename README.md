@@ -1,5 +1,4 @@
 
-<br>
 # SmartHotel360 - E2E Reference Sample and Azure Backend
 
 <p align="center">

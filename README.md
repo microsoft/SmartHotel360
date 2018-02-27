@@ -2,7 +2,7 @@
 # SmartHotel360 - E2E Reference Sample and Azure Backend
 
 <p align="center">
-<img src="/docs/SmartHotel360_ReferenceApps.png "/>
+<img src="docs/SmartHotel360_ReferenceApps.png "/>
 </p>
 
 # SmartHotel360
@@ -27,7 +27,8 @@ For this reference app scenario, we built several consumer and line-of-business 
 * [Backend Services](https://github.com/Microsoft/SmartHotel360-Azure-backend)
 * [Public Website](https://github.com/Microsoft/SmartHotel360-public-web)
 * [Mobile Apps](https://github.com/Microsoft/SmartHotel360-mobile-desktop-apps)
-* [Sentiment Analysis](https://github.com/Microsoft/SmartHotel360-Sentiment-Analysis-App) - Coming soon!
+* [Sentiment Analysis](https://github.com/Microsoft/SmartHotel360-Sentiment-Analysis-App)
+* [Migrating Internal apps to Azure](https://github.com/Microsoft/SmartHotel360-internal-booking-apps)
 
 # How to sign up for Microsoft Azure
 

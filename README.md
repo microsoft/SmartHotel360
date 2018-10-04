@@ -31,6 +31,7 @@ For this reference app scenario, we built several consumer and line-of-business 
 * [Sentiment Analysis](https://github.com/Microsoft/SmartHotel360-Sentiment-Analysis-App)
 * [Migrating Internal apps to Azure](https://github.com/Microsoft/SmartHotel360-internal-booking-apps)
 * [Original Backend Services](https://github.com/Microsoft/SmartHotel360-Azure-backend)
+* [How Containers Enable Local Development](https://github.com/microsoft/SmartHotel360-ContainersForLocalDev)
 
 # How to sign up for Microsoft Azure
 

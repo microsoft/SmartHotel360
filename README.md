@@ -28,6 +28,7 @@ For this reference app scenario, we built several consumer and line-of-business 
 - [Mobile](https://github.com/Microsoft/SmartHotel360-Mobile)
 - [Sentiment Analysis](https://github.com/Microsoft/SmartHotel360-SentimentAnalysis)
 - [Registration](https://github.com/Microsoft/SmartHotel360-Registration)
+- [Coupon Management](https://github.com/Microsoft/SmartHotel360-CouponManagement)
 
 # Application Diagram
 

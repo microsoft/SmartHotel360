@@ -7411,48 +7411,48 @@ button.close {
     font-family: FiraSans;
     font-style: normal;
     font-weight: 200;
-    src: url("/Documents/assets/fonts/FiraSans/FiraSans-Light.eot?") format("eot"), url("/Documents/assets/fonts/FiraSans/FiraSans-Light.woff") format("woff"), url("/assets/fonts/FiraSans/FiraSans-Light.ttf") format("truetype"), url("/assets/fonts/FiraSans/FiraSans-Light.svg#FiraSans") format("svg")
+    src: url("Documents/assets/fonts/FiraSans/FiraSans-Light.eot?") format("eot"), url("Documents/assets/fonts/FiraSans/FiraSans-Light.woff") format("woff"), url("/assets/fonts/FiraSans/FiraSans-Light.ttf") format("truetype"), url("/assets/fonts/FiraSans/FiraSans-Light.svg#FiraSans") format("svg")
 }
 
 @font-face {
     font-family: FiraSans;
     font-style: normal;
     font-weight: 400;
-    src: url("/Documents/assets/fonts/FiraSans/FiraSans-Regular.eot?") format("eot"), url("/Documents/assets/fonts/FiraSans/FiraSans-Regular.woff") format("woff"), url("/assets/fonts/FiraSans/FiraSans-Regular.ttf") format("truetype"), url("/assets/fonts/FiraSans/FiraSans-Regular.svg#FiraSans") format("svg")
+    src: url("Documents/assets/fonts/FiraSans/FiraSans-Regular.eot?") format("eot"), url("Documents/assets/fonts/FiraSans/FiraSans-Regular.woff") format("woff"), url("/assets/fonts/FiraSans/FiraSans-Regular.ttf") format("truetype"), url("/assets/fonts/FiraSans/FiraSans-Regular.svg#FiraSans") format("svg")
 }
 
 @font-face {
     font-family: Poppins;
     font-style: normal;
     font-weight: 500;
-    src: url("/Documents/assets/fonts/Poppins/Poppins-Medium.eot?") format("eot"), url("/Documents/assets/fonts/Poppins/Poppins-Medium.woff") format("woff"), url("/assets/fonts/Poppins/Poppins-Medium.ttf") format("truetype"), url("/assets/fonts/Poppins/Poppins-Medium.svg#Poppins") format("svg")
+    src: url("Documents/assets/fonts/Poppins/Poppins-Medium.eot?") format("eot"), url("Documents/assets/fonts/Poppins/Poppins-Medium.woff") format("woff"), url("/assets/fonts/Poppins/Poppins-Medium.ttf") format("truetype"), url("/assets/fonts/Poppins/Poppins-Medium.svg#Poppins") format("svg")
 }
 
 @font-face {
     font-family: Poppins;
     font-style: normal;
     font-weight: 400;
-    src: url("/Documents/assets/fonts/Poppins/Poppins-Regular.eot?") format("eot"), url("/Documents/assets/fonts/Poppins/Poppins-Regular.woff") format("woff"), url("/assets/fonts/Poppins/Poppins-Regular.ttf") format("truetype"), url("/assets/fonts/Poppins/Poppins-Regular.svg#Poppins") format("svg")
+    src: url("Documents/assets/fonts/Poppins/Poppins-Regular.eot?") format("eot"), url("Documents/assets/fonts/Poppins/Poppins-Regular.woff") format("woff"), url("/assets/fonts/Poppins/Poppins-Regular.ttf") format("truetype"), url("/assets/fonts/Poppins/Poppins-Regular.svg#Poppins") format("svg")
 }
 
 @font-face {
     font-family: Poppins;
     font-style: normal;
     font-weight: 600;
-    src: url("/Documents/assets/fonts/Poppins/Poppins-SemiBold.eot?") format("eot"), url("/Documents/assets/fonts/Poppins/Poppins-SemiBold.woff") format("woff"), url("/assets/fonts/Poppins/Poppins-SemiBold.ttf") format("truetype"), url("/assets/fonts/Poppins/Poppins-SemiBold.svg#Poppins") format("svg")
+    src: url("Documents/assets/fonts/Poppins/Poppins-SemiBold.eot?") format("eot"), url("Documents/assets/fonts/Poppins/Poppins-SemiBold.woff") format("woff"), url("/assets/fonts/Poppins/Poppins-SemiBold.ttf") format("truetype"), url("/assets/fonts/Poppins/Poppins-SemiBold.svg#Poppins") format("svg")
 }
 
 @font-face {
     font-family: Icomoon;
-    src: url("/Documents/assets/fonts/Icomoon/icomoon.eot?pjsjp3");
-    src: url("/Documents/assets/fonts/Icomoon/icomoon.eot?pjsjp3#iefix") format("embedded-opentype"), url("/Documents/assets/fonts/Icomoon/icomoon.ttf?pjsjp3") format("truetype"), url("/assets/fonts/Icomoon/icomoon.woff?pjsjp3") format("woff"), url("/assets/fonts/Icomoon/icomoon.svg?pjsjp3#Icomoon") format("svg");
+    src: url("Documents/assets/fonts/Icomoon/icomoon.eot?pjsjp3");
+    src: url("Documents/assets/fonts/Icomoon/icomoon.eot?pjsjp3#iefix") format("embedded-opentype"), url("Documents/assets/fonts/Icomoon/icomoon.ttf?pjsjp3") format("truetype"), url("/assets/fonts/Icomoon/icomoon.woff?pjsjp3") format("woff"), url("/assets/fonts/Icomoon/icomoon.svg?pjsjp3#Icomoon") format("svg");
     font-weight: 400;
     font-style: normal
 }
 
 [class*=" icon-"], [class^=icon-] {
     font-family: Icomoon!important;
-    /* speak: none; */
+    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -23096,7 +23096,7 @@ body, html {
 }
 
 .sh-hero {
-    background-image: url("Documents/assets/images/hero_image.png");
+    background-image: url("/Documents/assets/images/hero_image.png");
     background-size: cover;
     /* height: 43rem; */
     width: 100%

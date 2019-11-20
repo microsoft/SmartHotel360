@@ -1,6 +1,7 @@
 
 # SmartHotel360 Reference Apps
 We are happy to announce the release of SmartHotel360. This release intends to share a simplified version of SmartHotel360 reference sample apps used at Connect(); 2017 Keynotes.
+GET https://dev.azure.com/{organization}/{project}/_apis/build/repos/{repoType}/badge?api-version=5.1-preview.2
 
 <p align="center">
 <img src="Documents/Images/Logo.png"/>

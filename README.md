@@ -1,3 +1,4 @@
+# **The project SmartHotel360 have been retired, we have archieved it. It is no longer maintained. You still can fork the repository.**
 
 # SmartHotel360 Reference Apps
 We are happy to announce the release of SmartHotel360. This release intends to share a simplified version of SmartHotel360 reference sample apps used at Connect(); 2017 Keynotes.

@@ -1,4 +1,4 @@
-# **The project SmartHotel360 have been retired, we have archived it. It is no longer maintained. You still can fork the repository.**
+# **This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.**
 
 ## For the latest sample references visit: https://aka.ms/tailwindtraders & https://aka.ms/rpsls 
 
